@@ -1,0 +1,138 @@
+[
+    {
+        "ordek_turu" : "Sakarya Ördeği",
+        "ordek_boyu" : "34 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Jack",
+                "baba_adi" : "DadDuck Feridun"
+            },
+            {
+                "dede_adi" : "GrandDuck Sam",
+                "baba_adi" : "DadDuck Bob"
+            }
+        ] 
+    },
+    {
+        "ordek_turu" : "Kastamonu Ördeği",
+        "ordek_boyu" : "28 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Fred",
+                "baba_adi" : "DadDuck Clark"
+            },
+            {
+                "dede_adi" : "GrandDuck Sami",
+                "baba_adi" : "DadDuck Veli"
+            }
+        ] 
+    },{
+        "ordek_turu" : "Sakarya Ördeği",
+        "ordek_boyu" : "34 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Jack",
+                "baba_adi" : "DadDuck Feridun"
+            },
+            {
+                "dede_adi" : "GrandDuck Sam",
+                "baba_adi" : "DadDuck Bob"
+            }
+        ] 
+    },
+    {
+        "ordek_turu" : "Kastamonu Ördeği",
+        "ordek_boyu" : "28 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Fred",
+                "baba_adi" : "DadDuck Clark"
+            },
+            {
+                "dede_adi" : "GrandDuck Sami",
+                "baba_adi" : "DadDuck Veli"
+            }
+        ] 
+    },{
+        "ordek_turu" : "Sakarya Ördeği",
+        "ordek_boyu" : "34 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Jack",
+                "baba_adi" : "DadDuck Feridun"
+            },
+            {
+                "dede_adi" : "GrandDuck Sam",
+                "baba_adi" : "DadDuck Bob"
+            }
+        ] 
+    },
+    {
+        "ordek_turu" : "Kastamonu Ördeği",
+        "ordek_boyu" : "28 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Fred",
+                "baba_adi" : "DadDuck Clark"
+            },
+            {
+                "dede_adi" : "GrandDuck Sami",
+                "baba_adi" : "DadDuck Veli"
+            }
+        ] 
+    },{
+        "ordek_turu" : "Sakarya Ördeği",
+        "ordek_boyu" : "34 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Jack",
+                "baba_adi" : "DadDuck Feridun"
+            },
+            {
+                "dede_adi" : "GrandDuck Sam",
+                "baba_adi" : "DadDuck Bob"
+            }
+        ] 
+    },
+    {
+        "ordek_turu" : "Kastamonu Ördeği",
+        "ordek_boyu" : "28 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Fred",
+                "baba_adi" : "DadDuck Clark"
+            },
+            {
+                "dede_adi" : "GrandDuck Sami",
+                "baba_adi" : "DadDuck Veli"
+            }
+        ] 
+    },{
+        "ordek_turu" : "Sakarya Ördeği",
+        "ordek_boyu" : "34 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Jack",
+                "baba_adi" : "DadDuck Feridun"
+            },
+            {
+                "dede_adi" : "GrandDuck Sam",
+                "baba_adi" : "DadDuck Bob"
+            }
+        ] 
+    },
+    {
+        "ordek_turu" : "Kastamonu Ördeği",
+        "ordek_boyu" : "28 cm",
+        "ordek_sulalesi" : [
+            {
+                "dede_adi" : "GrandDuck Fred",
+                "baba_adi" : "DadDuck Clark"
+            },
+            {
+                "dede_adi" : "GrandDuck Sami",
+                "baba_adi" : "DadDuck Veli"
+            }
+        ] 
+    }
+]
